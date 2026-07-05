@@ -1,0 +1,22 @@
+{
+  "_huong_dan": "COPY file này thành 'khach.config.json' rồi ĐIỀN giá trị CỦA BẠN. Xóa hết chữ mẫu, thay bằng giá trị thật. File khach.config.json chứa bí mật -> KHÔNG commit (đã .gitignore) và KHÔNG gửi cho ai.",
+  "_bat_buoc": "Các trường có ĐIỀN_... là BẮT BUỘC. Các trường _tuy_chon để trống cũng chạy.",
+
+  "GITHUB_REPO": "ĐIỀN_URL_REPO_FORK (vd https://github.com/TEN-BAN/mentor_club_test.git)",
+  "GITHUB_PAT": "ĐIỀN_GITHUB_TOKEN (ghp_..., scope repo + workflow)",
+  "PRIVATE_REPO": true,
+
+  "LARK_APP_ID": "ĐIỀN_LARK_APP_ID (cli_...)",
+  "LARK_APP_SECRET": "ĐIỀN_LARK_APP_SECRET",
+  "LARK_BASE_ID": "ĐIỀN_BASE_ID (phần sau /base/ trong URL)",
+  "TABLE_PAGES": "ĐIỀN_TABLE_ID_BẢNG_PAGES (?table=tbl...)",
+  "TABLE_DANGBAI": "ĐIỀN_TABLE_ID_BẢNG_ĐĂNG_BÀI (?table=tbl...)",
+  "TABLE_POSTS": "",
+
+  "FB_USER_TOKEN": "ĐIỀN_FB_USER_TOKEN (token dài hạn, quyền pages_show_list/pages_manage_posts/pages_read_engagement)",
+  "FB_PAGE_TOKEN": "",
+
+  "REEL_BASE_ID": "",
+  "REEL_TABLE_ID": "",
+  "REEL_FB_PAGE_ID": ""
+}
